@@ -72,7 +72,6 @@ describe('Busca por voos', () => {
         .click()
 
     }); // fim do it
-   }) // fim do array
-  
+   }) // fim do array 
   }) // fim do context
 }) // fim do describe
